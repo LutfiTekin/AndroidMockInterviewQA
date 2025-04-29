@@ -1,8 +1,5 @@
 # AndroidMockInterviewQA
 
-Absolutely!
-Here’s a clean README.md version, formatted properly so you can push it straight to GitHub and share with your friend:
-
 Android (Kotlin + Jetpack Compose) Mock Interview Prep 
 
 This document contains questions and answers to prepare for a mock Android interview focusing on Kotlin and Jetpack Compose.
