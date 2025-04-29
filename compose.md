@@ -1,10 +1,6 @@
-Awesome — I’ll add a Table of Contents (with clickable links) at the top.
-Here’s the final full version of your compose.md file:
-
-
 ---
 
-Jetpack Compose Interview Prep
+###Jetpack Compose Interview Prep
 
 This document covers Jetpack Compose specific mock interview questions and answers.
 
